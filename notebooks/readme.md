@@ -1,0 +1,1 @@
+¿cómo exploramos y perfilamos?

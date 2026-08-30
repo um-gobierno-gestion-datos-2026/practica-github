@@ -1,0 +1,1 @@
+¿qué reglas verifican calidad?

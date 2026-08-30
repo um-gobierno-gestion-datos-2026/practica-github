@@ -1,0 +1,1 @@
+Almacena la documentación relacionada a todo el proyecto

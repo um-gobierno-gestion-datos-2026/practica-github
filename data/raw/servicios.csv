@@ -1,0 +1,11 @@
+﻿servicio_id,nombre_canonico,plazo_referencia_dias
+S01,Medicina General,15
+S02,Cardiología,15
+S03,Dermatología,60
+S04,Traumatología,30
+S05,Ginecología,60
+S06,Pediatría,15
+S07,Endocrinología,60
+S08,Oftalmología,30
+S09,Salud Mental,15
+S10,Neurología,30
